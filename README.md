@@ -6,10 +6,10 @@ This Python package retrieves a player's career match data from [Tennis Abstract
 
 ## Installation
 
-Install the package directly from GitHub. Replace `YOUR_GITHUB_OWNER` with the account or organization that owns the repository.
+Install the package directly from GitHub.
 
 ```bash
-python -m pip install git+https://github.com/YOUR_GITHUB_OWNER/hw03-3-jackie-dai.git
+python -m pip install git+https://github.com/UCB-stat159-f26/hw03-3-jackie-dai.git
 ```
 
 ## Usage
