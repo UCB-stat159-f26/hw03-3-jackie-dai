@@ -37,6 +37,5 @@ def plot_tennis_data(df):
 
     ax.set_axisbelow(True)
     ax.grid(alpha=0.25)
-    plt.savefig('./scatter_plot.png', dpi=300, bbox_inches='tight')
     plt.show()
     return fig
